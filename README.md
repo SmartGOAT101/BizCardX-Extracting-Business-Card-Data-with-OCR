@@ -31,7 +31,7 @@ To run this project, you need to have Python 3.x installed on your system along 
 8. import re
 
 
-## ## Project Overview
+ ## Project Overview
 1. Upload an image of a business card to the application.
 2. The uploaded image will be displayed on the screen.
 3. The text from the image will be extracted using OCR.
@@ -39,7 +39,7 @@ To run this project, you need to have Python 3.x installed on your system along 
 5. Click the "Save Data" button to save the extracted data to a MySQL database.
 6. To modify the data, select the "Modify" option from the sidebar and enter the ID of the entry you want to modify along with the new data.
 7. Click the "Save" button to save the modified data to the database.
-## ## Project Overview
+ ## Project Overview
 1. Upload an image of a business card to the application.
 2. The uploaded image will be displayed on the screen.
 3. The text from the image will be extracted using OCR.
